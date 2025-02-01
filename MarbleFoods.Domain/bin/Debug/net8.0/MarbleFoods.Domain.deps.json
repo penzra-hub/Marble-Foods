@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MarbleFoods.Domain/1.0.0": {
+        "dependencies": {
+          "AspNetCoreHero.Results": "1.1.1",
+          "FluentValidation": "11.11.0"
+        },
+        "runtime": {
+          "MarbleFoods.Domain.dll": {}
+        }
+      },
+      "AspNetCoreHero.Results/1.1.1": {
+        "runtime": {
+          "lib/net5.0/AspNetCoreHero.Results.dll": {
+            "assemblyVersion": "1.1.1.0",
+            "fileVersion": "1.1.1.0"
+          }
+        }
+      },
+      "FluentValidation/11.11.0": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.11.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarbleFoods.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AspNetCoreHero.Results/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lDGVoFLfNv4glcbVa2geDNiuHRfAl62Zt2rH0gBklYZLOImedH8HBaVoI3yGUQiRXqOXMhItM/lvkrn9qbXRdA==",
+      "path": "aspnetcorehero.results/1.1.1",
+      "hashPath": "aspnetcorehero.results.1.1.1.nupkg.sha512"
+    },
+    "FluentValidation/11.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cyIVdQBwSipxWG8MA3Rqox7iNbUNUTK5bfJi9tIdm4CAfH71Oo5ABLP4/QyrUwuakqpUEPGtE43BDddvEehuYw==",
+      "path": "fluentvalidation/11.11.0",
+      "hashPath": "fluentvalidation.11.11.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Infrastructure.deps.json
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Infrastructure.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Infrastructure.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Data.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Domain.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Data.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\bin\Debug\net8.0\MarbleFoods.Domain.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.AssemblyInfo.cs
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFo.AE3E1ACD.Up2Date
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\refint\MarbleFoods.Infrastructure.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\MarbleFoods.Infrastructure.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Infrastructure\obj\Debug\net8.0\ref\MarbleFoods.Infrastructure.dll

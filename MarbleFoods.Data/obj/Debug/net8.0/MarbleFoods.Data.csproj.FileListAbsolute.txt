@@ -1,0 +1,17 @@
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\bin\Debug\net8.0\MarbleFoods.Data.deps.json
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\bin\Debug\net8.0\MarbleFoods.Data.runtimeconfig.json
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\bin\Debug\net8.0\MarbleFoods.Data.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\bin\Debug\net8.0\MarbleFoods.Data.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\bin\Debug\net8.0\MarbleFoods.Domain.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\bin\Debug\net8.0\MarbleFoods.Domain.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.csproj.AssemblyReference.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.AssemblyInfoInputs.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.AssemblyInfo.cs
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.csproj.CoreCompileInputs.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFo.4E9F6F42.Up2Date
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\refint\MarbleFoods.Data.dll
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.pdb
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\MarbleFoods.Data.genruntimeconfig.cache
+C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Data\obj\Debug\net8.0\ref\MarbleFoods.Data.dll

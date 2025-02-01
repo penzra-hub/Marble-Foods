@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="Microsoft.AspNetCore.App" Version="8.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.12" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="8.0.12" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Serilog" Version="4.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarbleFoods.Data\MarbleFoods.Data.csproj" />
+    <ProjectReference Include="..\MarbleFoods.Domain\MarbleFoods.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

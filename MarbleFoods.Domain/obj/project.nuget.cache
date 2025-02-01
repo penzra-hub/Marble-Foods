@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cW2KwoblJ0U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Ogwuche\\Desktop\\Personals_\\MarbleFoods\\MarbleFoods.Domain\\MarbleFoods.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Ogwuche\\.nuget\\packages\\aspnetcorehero.results\\1.1.1\\aspnetcorehero.results.1.1.1.nupkg.sha512",
+    "C:\\Users\\David Ogwuche\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

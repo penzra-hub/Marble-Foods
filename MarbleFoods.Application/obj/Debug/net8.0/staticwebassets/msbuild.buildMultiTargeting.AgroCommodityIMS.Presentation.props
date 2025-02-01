@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgroCommodityIMS.Presentation.props" />
+</Project>

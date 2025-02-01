@@ -1,0 +1,460 @@
+[2025-01-22 07:43:05.169 +01:00  INF]  User profile is available. Using 'C:\Users\David Ogwuche\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2025-01-22 07:43:05.487 +01:00  INF]  Now listening on: https://localhost:7050
+[2025-01-22 07:43:05.487 +01:00  INF]  Now listening on: http://localhost:5292
+[2025-01-22 07:43:05.577 +01:00  INF]  Application started. Press Ctrl+C to shut down.
+[2025-01-22 07:43:05.578 +01:00  INF]  Hosting environment: Development
+[2025-01-22 07:43:05.579 +01:00  INF]  Content root path: C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Application
+[2025-01-22 07:43:07.296 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger - null null
+[2025-01-22 07:43:07.455 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger - 301 0 null 171.8732ms
+[2025-01-22 07:43:07.459 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/index.html - null null
+[2025-01-22 07:43:07.514 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/index.html - 200 null text/html;charset=utf-8 54.6366ms
+[2025-01-22 07:43:07.549 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/_framework/aspnetcore-browser-refresh.js - null null
+[2025-01-22 07:43:07.549 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/swagger-ui.css - null null
+[2025-01-22 07:43:07.549 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/swagger-ui-standalone-preset.js - null null
+[2025-01-22 07:43:07.549 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/swagger-ui-bundle.js - null null
+[2025-01-22 07:43:07.549 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/_vs/browserLink - null null
+[2025-01-22 07:43:07.560 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/_framework/aspnetcore-browser-refresh.js - 200 16119 application/javascript; charset=utf-8 11.5305ms
+[2025-01-22 07:43:07.608 +01:00  INF]  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[2025-01-22 07:43:07.608 +01:00  INF]  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[2025-01-22 07:43:07.610 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 61.0722ms
+[2025-01-22 07:43:07.610 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/swagger-ui.css - 200 152034 text/css 61.2961ms
+[2025-01-22 07:43:07.668 +01:00  INF]  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[2025-01-22 07:43:07.670 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 121.1367ms
+[2025-01-22 07:43:07.676 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/_vs/browserLink - 200 null text/javascript; charset=UTF-8 126.3131ms
+[2025-01-22 07:43:07.821 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/v1/swagger.json - null null
+[2025-01-22 07:43:07.840 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/favicon-32x32.png - null null
+[2025-01-22 07:43:07.841 +01:00  INF]  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[2025-01-22 07:43:07.841 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/favicon-32x32.png - 200 628 image/png 0.8915ms
+[2025-01-22 07:43:07.853 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 32.041ms
+[2025-01-22 15:05:30.183 +01:00  INF]  User profile is available. Using 'C:\Users\David Ogwuche\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+[2025-01-22 15:05:30.477 +01:00  INF]  Now listening on: https://localhost:7050
+[2025-01-22 15:05:30.477 +01:00  INF]  Now listening on: http://localhost:5292
+[2025-01-22 15:05:30.559 +01:00  INF]  Application started. Press Ctrl+C to shut down.
+[2025-01-22 15:05:30.560 +01:00  INF]  Hosting environment: Development
+[2025-01-22 15:05:30.560 +01:00  INF]  Content root path: C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Application
+[2025-01-22 15:05:31.525 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger - null null
+[2025-01-22 15:05:31.693 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger - 301 0 null 178.277ms
+[2025-01-22 15:05:31.700 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/index.html - null null
+[2025-01-22 15:05:31.756 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/index.html - 200 null text/html;charset=utf-8 56.2225ms
+[2025-01-22 15:05:31.761 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/swagger-ui.css - null null
+[2025-01-22 15:05:31.762 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/swagger-ui-bundle.js - null null
+[2025-01-22 15:05:31.762 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/swagger-ui-standalone-preset.js - null null
+[2025-01-22 15:05:31.762 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/_framework/aspnetcore-browser-refresh.js - null null
+[2025-01-22 15:05:31.779 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/_framework/aspnetcore-browser-refresh.js - 200 16119 application/javascript; charset=utf-8 16.6725ms
+[2025-01-22 15:05:31.809 +01:00  INF]  Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+[2025-01-22 15:05:31.809 +01:00  INF]  Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+[2025-01-22 15:05:31.809 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/swagger-ui.css - 200 152034 text/css 47.766ms
+[2025-01-22 15:05:31.809 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 47.393ms
+[2025-01-22 15:05:31.847 +01:00  INF]  Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+[2025-01-22 15:05:31.847 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 85.1807ms
+[2025-01-22 15:05:31.983 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/_vs/browserLink - null null
+[2025-01-22 15:05:32.044 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/favicon-32x32.png - null null
+[2025-01-22 15:05:32.045 +01:00  INF]  Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+[2025-01-22 15:05:32.045 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/favicon-32x32.png - 200 628 image/png 0.9893ms
+[2025-01-22 15:05:32.271 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/_vs/browserLink - 200 null text/javascript; charset=UTF-8 293.6024ms
+[2025-01-22 15:05:32.564 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/swagger/v1/swagger.json - null null
+[2025-01-22 15:05:32.598 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 33.6065ms
+[2025-01-22 15:05:48.156 +01:00  INF]  Request starting HTTP/2 GET https://localhost:7050/api/Suppliers - null null
+[2025-01-22 15:05:48.233 +01:00  INF]  Request finished HTTP/2 GET https://localhost:7050/api/Suppliers - 401 null application/json; charset=utf-8 77.8725ms
+[2025-01-22 15:06:00.170 +01:00  INF]  Request starting HTTP/2 POST https://localhost:7050/api/Authentication/login - application/json 47
+[2025-01-22 15:06:00.180 +01:00  INF]  CORS policy execution successful.
+[2025-01-22 15:06:00.303 +01:00  INF]  Executing endpoint 'MarbleFoods.Presentation.Controllers.AuthenticationController.Login (MarbleFoods.Presentation)'
+[2025-01-22 15:06:00.358 +01:00  INF]  Route matched with {action = "Login", controller = "Authentication"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(MarbleFoods.Domain.DTOs.LoginReqDto) on controller MarbleFoods.Presentation.Controllers.AuthenticationController (MarbleFoods.Presentation).
+[2025-01-22 15:06:04.960 +01:00  INF]  Login has been initiated!
+[2025-01-22 15:06:05.116 +01:00  INF]  Executed action MarbleFoods.Presentation.Controllers.AuthenticationController.Login (MarbleFoods.Presentation) in 4753.3239ms
+[2025-01-22 15:06:05.149 +01:00  INF]  Executed endpoint 'MarbleFoods.Presentation.Controllers.AuthenticationController.Login (MarbleFoods.Presentation)'
+[2025-01-22 15:06:05.173 +01:00  ERR]  An error occurred: Validation failed: 
+ -- Email: Email must contain '@' and '.'. Severity: Error
+FluentValidation.ValidationException: Validation failed: 
+ -- Email: Email must contain '@' and '.'. Severity: Error
+   at MarbleFoods.Application.Services.MFServices.AuthorisationService.LoginMarbleFoodUser(LoginReqDto request) in C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Presentation\Services\MFServices\AuthorisationService.cs:line 26
+   at MarbleFoods.Presentation.Controllers.AuthenticationController.Login(LoginReqDto request) in C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Application\Controllers\AuthenticationController.cs:line 27
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at MarbleFoods.Presentation.Middlewares.GlobalExceptionMiddleware.InvokeAsync(HttpContext context) in C:\Users\David Ogwuche\Desktop\Personals_\MarbleFoods\MarbleFoods.Application\Middlewares\GlobalExceptionHandler.cs:line 25
+[2025-01-22 15:06:05.271 +01:00  INF]  Request finished HTTP/2 POST https://localhost:7050/api/Authentication/login - 400 null application/json 5101.1486ms
+[2025-01-22 15:07:33.275 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.292 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.408 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.411 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.442 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:07:33.442 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.471 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:15.488 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.277 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:08:58.296 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.323 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:09:48.340 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.367 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.384 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.384 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.385 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.666 +01:00  WRN]  No store type was specified for the decimal property 'MaximumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.668 +01:00  WRN]  No store type was specified for the decimal property 'MinimumStockLevel' on entity type 'MarbleFoodsCommodity'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.668 +01:00  WRN]  No store type was specified for the decimal property 'PurchasePrice' on entity type 'MarbleFoodsInventoryBatch'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsInventoryTransaction'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'Quantity' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'TotalPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'UnitPrice' on entity type 'MarbleFoodsPurchaseOrderItem'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'Value' on entity type 'MarbleFoodsQualityCheckResult'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'MaximumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.669 +01:00  WRN]  No store type was specified for the decimal property 'MinimumValue' on entity type 'MarbleFoodsQualityParameter'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.671 +01:00  WRN]  No store type was specified for the decimal property 'AvailableCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:24.671 +01:00  WRN]  No store type was specified for the decimal property 'TotalCapacity' on entity type 'MarbleFoodsWarehouse'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values in 'OnModelCreating' using 'HasColumnType', specify precision and scale using 'HasPrecision', or configure a value converter using 'HasConversion'.
+[2025-01-22 15:11:25.124 +01:00  INF]  Executed DbCommand (416ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [MarbleFoods];
+[2025-01-22 15:11:25.351 +01:00  INF]  Executed DbCommand (225ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [MarbleFoods] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+[2025-01-22 15:11:25.369 +01:00  INF]  Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+[2025-01-22 15:11:25.413 +01:00  INF]  Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+[2025-01-22 15:11:25.414 +01:00  INF]  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+[2025-01-22 15:11:25.423 +01:00  INF]  Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+[2025-01-22 15:11:25.442 +01:00  INF]  Executed DbCommand (17ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+[2025-01-22 15:11:25.451 +01:00  INF]  Applying migration '20250122140733_init'.
+[2025-01-22 15:11:25.507 +01:00  INF]  Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsAlert] (
+    [AlertId] uniqueidentifier NOT NULL,
+    [AlertType] int NOT NULL,
+    [Message] nvarchar(max) NOT NULL,
+    [Severity] int NOT NULL,
+    [IsRead] bit NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [RelatedEntityId] uniqueidentifier NULL,
+    [RelatedEntityType] nvarchar(max) NOT NULL,
+    [AssignedToUserId] uniqueidentifier NULL,
+    CONSTRAINT [PK_MarbleFoodsAlert] PRIMARY KEY ([AlertId])
+);
+[2025-01-22 15:11:25.511 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsAuditLog] (
+    [AuditLogId] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [Action] nvarchar(50) NOT NULL,
+    [EntityName] nvarchar(50) NOT NULL,
+    [EntityId] uniqueidentifier NOT NULL,
+    [OldValue] nvarchar(max) NOT NULL,
+    [NewValue] nvarchar(max) NOT NULL,
+    [Timestamp] datetime2 NOT NULL,
+    [IpAddress] nvarchar(50) NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsAuditLog] PRIMARY KEY ([AuditLogId])
+);
+[2025-01-22 15:11:25.516 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsCommodity] (
+    [CommodityId] uniqueidentifier NOT NULL,
+    [Name] nvarchar(100) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [Category] nvarchar(max) NOT NULL,
+    [UnitOfMeasurement] nvarchar(20) NOT NULL,
+    [MinimumStockLevel] decimal(18,2) NOT NULL,
+    [MaximumStockLevel] decimal(18,2) NOT NULL,
+    [RequiresQualityCheck] bit NOT NULL,
+    [IsPerishable] bit NOT NULL,
+    [ShelfLifeDays] int NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [CreatedByUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsCommodity] PRIMARY KEY ([CommodityId])
+);
+[2025-01-22 15:11:25.519 +01:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsQualityParameter] (
+    [ParameterId] uniqueidentifier NOT NULL,
+    [Name] nvarchar(max) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [UnitOfMeasurement] nvarchar(max) NOT NULL,
+    [MinimumValue] decimal(18,2) NOT NULL,
+    [MaximumValue] decimal(18,2) NOT NULL,
+    [IsRequired] bit NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsQualityParameter] PRIMARY KEY ([ParameterId])
+);
+[2025-01-22 15:11:25.523 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsRoles] (
+    [RoleId] uniqueidentifier NOT NULL,
+    [Name] nvarchar(50) NOT NULL,
+    [Description] nvarchar(max) NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [CreatedBy] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsRoles] PRIMARY KEY ([RoleId])
+);
+[2025-01-22 15:11:25.528 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsSupplier] (
+    [SupplierId] uniqueidentifier NOT NULL,
+    [Name] nvarchar(100) NOT NULL,
+    [ContactPerson] nvarchar(max) NOT NULL,
+    [Email] nvarchar(100) NOT NULL,
+    [Phone] nvarchar(20) NOT NULL,
+    [Address] nvarchar(max) NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsSupplier] PRIMARY KEY ([SupplierId])
+);
+[2025-01-22 15:11:25.531 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsUser] (
+    [UserId] uniqueidentifier NOT NULL,
+    [Username] nvarchar(50) NOT NULL,
+    [Email] nvarchar(100) NOT NULL,
+    [PasswordHash] nvarchar(max) NOT NULL,
+    [FirstName] nvarchar(max) NOT NULL,
+    [LastName] nvarchar(max) NOT NULL,
+    [PhoneNumber] nvarchar(max) NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [LastLoginDate] datetime2 NULL,
+    [RequiresMFA] bit NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsUser] PRIMARY KEY ([UserId])
+);
+[2025-01-22 15:11:25.540 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsWarehouse] (
+    [WarehouseId] uniqueidentifier NOT NULL,
+    [Name] nvarchar(100) NOT NULL,
+    [Location] nvarchar(200) NOT NULL,
+    [Address] nvarchar(max) NOT NULL,
+    [TotalCapacity] decimal(18,2) NOT NULL,
+    [AvailableCapacity] decimal(18,2) NOT NULL,
+    [IsActive] bit NOT NULL,
+    [CreatedByUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsWarehouse] PRIMARY KEY ([WarehouseId])
+);
+[2025-01-22 15:11:25.547 +01:00  INF]  Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsCommodityMarbleFoodsQualityParameter] (
+    [CommoditiesCommodityId] uniqueidentifier NOT NULL,
+    [QualityParametersParameterId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsCommodityMarbleFoodsQualityParameter] PRIMARY KEY ([CommoditiesCommodityId], [QualityParametersParameterId]),
+    CONSTRAINT [FK_MarbleFoodsCommodityMarbleFoodsQualityParameter_MarbleFoodsCommodity_CommoditiesCommodityId] FOREIGN KEY ([CommoditiesCommodityId]) REFERENCES [MarbleFoodsCommodity] ([CommodityId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_MarbleFoodsCommodityMarbleFoodsQualityParameter_MarbleFoodsQualityParameter_QualityParametersParameterId] FOREIGN KEY ([QualityParametersParameterId]) REFERENCES [MarbleFoodsQualityParameter] ([ParameterId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.552 +01:00  INF]  Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsPurchaseOrder] (
+    [PurchaseOrderId] uniqueidentifier NOT NULL,
+    [OrderNumber] nvarchar(50) NOT NULL,
+    [SupplierId] uniqueidentifier NOT NULL,
+    [OrderDate] datetime2 NOT NULL,
+    [ExpectedDeliveryDate] datetime2 NOT NULL,
+    [PurchaseStatus] int NOT NULL,
+    [TotalAmount] decimal(18,4) NOT NULL,
+    [Notes] nvarchar(max) NOT NULL,
+    [CreatedByUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsPurchaseOrder] PRIMARY KEY ([PurchaseOrderId]),
+    CONSTRAINT [FK_MarbleFoodsPurchaseOrder_MarbleFoodsSupplier_SupplierId] FOREIGN KEY ([SupplierId]) REFERENCES [MarbleFoodsSupplier] ([SupplierId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.557 +01:00  INF]  Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsUserMfaBackupCode] (
+    [Id] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [Code] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UsedAt] datetime2 NULL,
+    [UsedFromIpAddress] nvarchar(max) NULL,
+    [IsUsed] bit NOT NULL,
+    [MarbleFoodsUserUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsUserMfaBackupCode] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_MarbleFoodsUserMfaBackupCode_MarbleFoodsUser_MarbleFoodsUserUserId] FOREIGN KEY ([MarbleFoodsUserUserId]) REFERENCES [MarbleFoodsUser] ([UserId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.564 +01:00  INF]  Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice] (
+    [Id] uniqueidentifier NOT NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [DeviceIdentifier] nvarchar(256) NOT NULL,
+    [DeviceName] nvarchar(100) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [ExpiresAt] datetime2 NOT NULL,
+    [LastUsedAt] datetime2 NOT NULL,
+    [IpAddress] nvarchar(45) NOT NULL,
+    [UserAgent] nvarchar(500) NOT NULL,
+    [IsActive] bit NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice_MarbleFoodsUser_UserId] FOREIGN KEY ([UserId]) REFERENCES [MarbleFoodsUser] ([UserId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.569 +01:00  INF]  Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleUserRole] (
+    [UserId] uniqueidentifier NOT NULL,
+    [RoleId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleUserRole] PRIMARY KEY ([UserId]),
+    CONSTRAINT [FK_MarbleUserRole_MarbleFoodsRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [MarbleFoodsRoles] ([RoleId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_MarbleUserRole_MarbleFoodsUser_UserId] FOREIGN KEY ([UserId]) REFERENCES [MarbleFoodsUser] ([UserId]) ON DELETE NO ACTION
+);
+[2025-01-22 15:11:25.576 +01:00  INF]  Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsInventoryBatch] (
+    [BatchId] uniqueidentifier NOT NULL,
+    [BatchNumber] nvarchar(50) NOT NULL,
+    [CommodityId] uniqueidentifier NOT NULL,
+    [WarehouseId] uniqueidentifier NOT NULL,
+    [Quantity] decimal(18,4) NOT NULL,
+    [ManufactureDate] datetime2 NOT NULL,
+    [ExpirationDate] datetime2 NOT NULL,
+    [StorageLocation] nvarchar(max) NOT NULL,
+    [PurchasePrice] decimal(18,2) NOT NULL,
+    [Status] int NOT NULL,
+    [CreatedDate] datetime2 NOT NULL,
+    [CreatedByUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsInventoryBatch] PRIMARY KEY ([BatchId]),
+    CONSTRAINT [FK_MarbleFoodsInventoryBatch_MarbleFoodsCommodity_CommodityId] FOREIGN KEY ([CommodityId]) REFERENCES [MarbleFoodsCommodity] ([CommodityId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_MarbleFoodsInventoryBatch_MarbleFoodsWarehouse_WarehouseId] FOREIGN KEY ([WarehouseId]) REFERENCES [MarbleFoodsWarehouse] ([WarehouseId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.581 +01:00  INF]  Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsPurchaseOrderItem] (
+    [PurchaseOrderItemId] uniqueidentifier NOT NULL,
+    [PurchaseOrderId] uniqueidentifier NOT NULL,
+    [CommodityId] uniqueidentifier NOT NULL,
+    [Quantity] decimal(18,2) NOT NULL,
+    [UnitPrice] decimal(18,2) NOT NULL,
+    [TotalPrice] decimal(18,2) NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsPurchaseOrderItem] PRIMARY KEY ([PurchaseOrderItemId]),
+    CONSTRAINT [FK_MarbleFoodsPurchaseOrderItem_MarbleFoodsPurchaseOrder_PurchaseOrderId] FOREIGN KEY ([PurchaseOrderId]) REFERENCES [MarbleFoodsPurchaseOrder] ([PurchaseOrderId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.588 +01:00  INF]  Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsInventoryTransaction] (
+    [TransactionId] uniqueidentifier NOT NULL,
+    [TransactionType] int NOT NULL,
+    [BatchId] uniqueidentifier NOT NULL,
+    [SourceWarehouseId] uniqueidentifier NOT NULL,
+    [DestinationWarehouseId] uniqueidentifier NOT NULL,
+    [Quantity] decimal(18,2) NOT NULL,
+    [ReferenceNumber] nvarchar(max) NOT NULL,
+    [TransactionDate] datetime2 NOT NULL,
+    [Notes] nvarchar(max) NOT NULL,
+    [CreatedByUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsInventoryTransaction] PRIMARY KEY ([TransactionId]),
+    CONSTRAINT [FK_MarbleFoodsInventoryTransaction_MarbleFoodsInventoryBatch_BatchId] FOREIGN KEY ([BatchId]) REFERENCES [MarbleFoodsInventoryBatch] ([BatchId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_MarbleFoodsInventoryTransaction_MarbleFoodsUser_CreatedByUserId] FOREIGN KEY ([CreatedByUserId]) REFERENCES [MarbleFoodsUser] ([UserId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_MarbleFoodsInventoryTransaction_MarbleFoodsWarehouse_DestinationWarehouseId] FOREIGN KEY ([DestinationWarehouseId]) REFERENCES [MarbleFoodsWarehouse] ([WarehouseId]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_MarbleFoodsInventoryTransaction_MarbleFoodsWarehouse_SourceWarehouseId] FOREIGN KEY ([SourceWarehouseId]) REFERENCES [MarbleFoodsWarehouse] ([WarehouseId]) ON DELETE NO ACTION
+);
+[2025-01-22 15:11:25.595 +01:00  INF]  Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsQualityCheck] (
+    [QualityCheckId] uniqueidentifier NOT NULL,
+    [BatchId] uniqueidentifier NOT NULL,
+    [CheckDate] datetime2 NOT NULL,
+    [QualityStatus] int NOT NULL,
+    [Notes] nvarchar(max) NOT NULL,
+    [PerformedByUserId] uniqueidentifier NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsQualityCheck] PRIMARY KEY ([QualityCheckId]),
+    CONSTRAINT [FK_MarbleFoodsQualityCheck_MarbleFoodsInventoryBatch_BatchId] FOREIGN KEY ([BatchId]) REFERENCES [MarbleFoodsInventoryBatch] ([BatchId]) ON DELETE CASCADE,
+    CONSTRAINT [FK_MarbleFoodsQualityCheck_MarbleFoodsUser_PerformedByUserId] FOREIGN KEY ([PerformedByUserId]) REFERENCES [MarbleFoodsUser] ([UserId]) ON DELETE NO ACTION
+);
+[2025-01-22 15:11:25.600 +01:00  INF]  Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [MarbleFoodsQualityCheckResult] (
+    [ResultId] uniqueidentifier NOT NULL,
+    [QualityCheckId] uniqueidentifier NOT NULL,
+    [ParameterId] uniqueidentifier NOT NULL,
+    [Value] decimal(18,2) NOT NULL,
+    [PassedCheck] bit NOT NULL,
+    CONSTRAINT [PK_MarbleFoodsQualityCheckResult] PRIMARY KEY ([ResultId]),
+    CONSTRAINT [FK_MarbleFoodsQualityCheckResult_MarbleFoodsQualityCheck_QualityCheckId] FOREIGN KEY ([QualityCheckId]) REFERENCES [MarbleFoodsQualityCheck] ([QualityCheckId]) ON DELETE CASCADE
+);
+[2025-01-22 15:11:25.606 +01:00  INF]  Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsAuditLog_EntityName] ON [MarbleFoodsAuditLog] ([EntityName]);
+[2025-01-22 15:11:25.608 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsAuditLog_Timestamp] ON [MarbleFoodsAuditLog] ([Timestamp]);
+[2025-01-22 15:11:25.611 +01:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsCommodityMarbleFoodsQualityParameter_QualityParametersParameterId] ON [MarbleFoodsCommodityMarbleFoodsQualityParameter] ([QualityParametersParameterId]);
+[2025-01-22 15:11:25.613 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsInventoryBatch_CommodityId] ON [MarbleFoodsInventoryBatch] ([CommodityId]);
+[2025-01-22 15:11:25.615 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsInventoryBatch_WarehouseId] ON [MarbleFoodsInventoryBatch] ([WarehouseId]);
+[2025-01-22 15:11:25.618 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsInventoryTransaction_BatchId] ON [MarbleFoodsInventoryTransaction] ([BatchId]);
+[2025-01-22 15:11:25.620 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsInventoryTransaction_CreatedByUserId] ON [MarbleFoodsInventoryTransaction] ([CreatedByUserId]);
+[2025-01-22 15:11:25.622 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsInventoryTransaction_DestinationWarehouseId] ON [MarbleFoodsInventoryTransaction] ([DestinationWarehouseId]);
+[2025-01-22 15:11:25.624 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsInventoryTransaction_SourceWarehouseId] ON [MarbleFoodsInventoryTransaction] ([SourceWarehouseId]);
+[2025-01-22 15:11:25.627 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsPurchaseOrder_SupplierId] ON [MarbleFoodsPurchaseOrder] ([SupplierId]);
+[2025-01-22 15:11:25.629 +01:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsPurchaseOrderItem_PurchaseOrderId] ON [MarbleFoodsPurchaseOrderItem] ([PurchaseOrderId]);
+[2025-01-22 15:11:25.632 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsQualityCheck_BatchId] ON [MarbleFoodsQualityCheck] ([BatchId]);
+[2025-01-22 15:11:25.634 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsQualityCheck_PerformedByUserId] ON [MarbleFoodsQualityCheck] ([PerformedByUserId]);
+[2025-01-22 15:11:25.637 +01:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsQualityCheckResult_QualityCheckId] ON [MarbleFoodsQualityCheckResult] ([QualityCheckId]);
+[2025-01-22 15:11:25.640 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsUserMfaBackupCode_MarbleFoodsUserUserId] ON [MarbleFoodsUserMfaBackupCode] ([MarbleFoodsUserUserId]);
+[2025-01-22 15:11:25.642 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice_ExpiresAt] ON [MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice] ([ExpiresAt]);
+[2025-01-22 15:11:25.645 +01:00  INF]  Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice_UserId_DeviceIdentifier] ON [MarbleFoodsUserMfaTrustedDeviceUserMfaTrustedDevice] ([UserId], [DeviceIdentifier]);
+[2025-01-22 15:11:25.647 +01:00  INF]  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_MarbleUserRole_RoleId] ON [MarbleUserRole] ([RoleId]);
+[2025-01-22 15:11:25.658 +01:00  INF]  Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250122140733_init', N'8.0.12');

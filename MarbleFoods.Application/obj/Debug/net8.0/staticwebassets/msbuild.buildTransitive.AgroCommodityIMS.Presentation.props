@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AgroCommodityIMS.Presentation.props" />
+</Project>
